@@ -4,7 +4,7 @@ This mod let's you choose the outcome of reforges from the Goblin Tinkerer NPC.
 
 The list is sorted by rarity, you can select multiple items in the list to create a custom RNG pool.
 
-[![demo](https://i.postimg.cc/BnPwmL20/Animation.gif)](https://postimg.cc/CRYN1KvP)
+[![Animation.gif](https://i.postimg.cc/BnPwmL20/Animation.gif)](https://postimg.cc/CRYN1KvP)
 
 The price of reforge is a custom calculation.
 
