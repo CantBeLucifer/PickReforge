@@ -1,0 +1,9 @@
+{
+  "id": "pick-reforge",
+  "name": "Pick Reforge",
+  "version": "1.0.0",
+  "author": "Lucifer",
+  "description": "Let's you choose Reforge outcome",
+  "entry_dll": "PickReforge.dll",
+  "icon": "icon.png"
+}
